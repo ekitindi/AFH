@@ -253,6 +253,7 @@ npm test
 - [ ] Complete medication scheduling
 - [ ] Medication reminders
 - [ ] Administration recording
+- [ ] Resident Appointment scheduling
 - [ ] Basic reporting
 
 ### Phase 3 (Weeks 9-10) - Inventory & Reports
